@@ -33,7 +33,7 @@ The JSON object may look something like this:
         }
     ]
 
-Se available options below. 
+See available options below. 
 
 In the CSS field you set up any CSS you need to customize the redactor fields in the 
 control panel. Could be somthing like this:
